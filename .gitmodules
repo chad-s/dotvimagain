@@ -1,0 +1,27 @@
+[submodule "pack/v/start/vim-airline"]
+	path = pack/v/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/v/start/srcery-vim"]
+	path = pack/v/start/srcery-vim
+	url = https://github.com/srcery-colors/srcery-vim
+[submodule "pack/v/start/YouCompleteMe"]
+	path = pack/v/start/YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe.git
+[submodule "pack/v/start/nerdtree"]
+	path = pack/v/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/v/start/vimoutliner"]
+	path = pack/v/start/vimoutliner
+	url = https://github.com/vimoutliner/vimoutliner.git
+[submodule "pack/v/start/vim-markdown"]
+	path = pack/v/start/vim-markdown
+	url = https://github.com/preservim/vim-markdown.git
+[submodule "/Users/chadsutfin/.vim/pack/v/start/syntastic"]
+	path = /Users/chadsutfin/.vim/pack/v/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "/Users/chadsutfin/.vim/pack/v/start/vim-fugitive"]
+	path = /Users/chadsutfin/.vim/pack/v/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "/Users/chadsutfin/.vim/pack/v/start/nerdcommenter"]
+	path = /Users/chadsutfin/.vim/pack/v/start/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter.git
